@@ -1,4 +1,4 @@
-# 深度复盘：修复 Apache Doris BE 指标导出重复问题
+# 复盘：修复 Apache Doris BE 指标导出重复问题
 
 * **PR 链接**：https://github.com/apache/doris/pull/59157
 * **Issue 编号**：#57788
