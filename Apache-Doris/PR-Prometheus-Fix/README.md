@@ -1,6 +1,5 @@
 # 深度复盘：修复 Apache Doris BE 指标导出重复问题
 
-* **项目名**：Apache Doris (Top-level Distributed SQL Database)
 * **PR 链接**：https://github.com/apache/doris/pull/59157
 * **Issue 编号**：#57788
 * **核心技术栈**：C++11, Prometheus Protocol, CMake, 源码审计
@@ -55,11 +54,24 @@
 ---
 
 ##  5. 过程存证
-<img width="352" height="253" alt="01_build_script_configuration_and_license" src="https://github.com/user-attachments/assets/0f6fa322-a13b-4964-aa62-4592b6f65a18" /><br>
-<img width="527" height="276" alt="06_analysis_of_flawed_group_name_deduplication_logic" src="https://github.com/user-attachments/assets/d4f172e5-d77e-444b-9990-c197493e2489" /> <br>
-<img width="422" height="110" alt="07_metric_registry_internal_management_audit" src="https://github.com/user-attachments/assets/2ebdb311-3ea9-4f1a-b227-ce7a1aa48c8e" /><br>
-<img width="544" height="301" alt="12_comprehensive_git_diff_of_metrics_logic" src="https://github.com/user-attachments/assets/a660c6e0-e1b3-42f7-b57f-6049ceff3bda" /><br>
+<details>
+<summary>1. 编译环境与 License 配置</summary>
+<img width="352" height="253" alt="01_build_script_configuration_and_license" src="https://github.com/user-attachments/assets/8a832838-05a7-482e-956a-06e63ba7bc79" /><br>
+<img width="429" height="104" alt="02_verified_compilation_artifacts_and_binary_size" src="https://github.com/user-attachments/assets/e50ad2d0-8cf2-46cc-a33e-e73f24359207" /><br>
+</details>
+    
+<details>
+<summary>2. 核心 Bug 逻辑审计</summary>
+<img width="527" height="276" alt="06_analysis_of_flawed_group_name_deduplication_logic" src="https://github.com/user-attachments/assets/6146d334-02ce-437b-9a69-c2be03d211cf" /><br>
+<img width="422" height="110" alt="07_metric_registry_internal_management_audit" src="https://github.com/user-attachments/assets/d21dd902-e151-4857-aefd-e0f9089fdc29" /><br>
+<img width="544" height="301" alt="12_comprehensive_git_diff_of_metrics_logic" src="https://github.com/user-attachments/assets/4b13126b-e0e1-4f5f-bf9a-c7ad723cb8f3" /><br>
+</details>
 
+<details>
+<summary>3. 流程</summary>
+<img width="377" height="403" alt="13_professional_development_and_testing_workflow" src="https://github.com/user-attachments/assets/52220962-9006-4005-9b96-0e747de28552" /><br>
+
+</details>
 
 
 
