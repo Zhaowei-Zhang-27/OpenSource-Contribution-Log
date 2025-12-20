@@ -57,6 +57,7 @@
 <details>
 <summary>1. 编译环境与 License 配置</summary>
 <img width="352" height="253" alt="01_build_script_configuration_and_license" src="https://github.com/user-attachments/assets/8a832838-05a7-482e-956a-06e63ba7bc79" /><br>
+ <img width="383" height="67" alt="02_toolchain_version_check_cmake_3_29" src="https://github.com/user-attachments/assets/10723cf9-e45d-411d-9cfe-93ead2213afb" /><br>
 <img width="429" height="104" alt="02_verified_compilation_artifacts_and_binary_size" src="https://github.com/user-attachments/assets/e50ad2d0-8cf2-46cc-a33e-e73f24359207" /><br>
 </details>
     
