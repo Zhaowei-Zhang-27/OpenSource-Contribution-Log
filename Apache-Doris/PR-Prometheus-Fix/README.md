@@ -55,9 +55,12 @@
 ---
 
 ##  5. 过程存证
-<img width="352" height="253" alt="01_build_script_configuration_and_license" src="https://github.com/user-attachments/assets/0f6fa322-a13b-4964-aa62-4592b6f65a18" />
--
-<img width="527" height="276" alt="06_analysis_of_flawed_group_name_deduplication_logic" src="https://github.com/user-attachments/assets/d4f172e5-d77e-444b-9990-c197493e2489" />
-<img width="422" height="110" alt="07_metric_registry_internal_management_audit" src="https://github.com/user-attachments/assets/2ebdb311-3ea9-4f1a-b227-ce7a1aa48c8e" />
+<img width="352" height="253" alt="01_build_script_configuration_and_license" src="https://github.com/user-attachments/assets/0f6fa322-a13b-4964-aa62-4592b6f65a18" /><br>
+<img width="527" height="276" alt="06_analysis_of_flawed_group_name_deduplication_logic" src="https://github.com/user-attachments/assets/d4f172e5-d77e-444b-9990-c197493e2489" /> <br>
+<img width="422" height="110" alt="07_metric_registry_internal_management_audit" src="https://github.com/user-attachments/assets/2ebdb311-3ea9-4f1a-b227-ce7a1aa48c8e" /><br>
+<img width="544" height="301" alt="12_comprehensive_git_diff_of_metrics_logic" src="https://github.com/user-attachments/assets/a660c6e0-e1b3-42f7-b57f-6049ceff3bda" /><br>
+
+
+
 
 
